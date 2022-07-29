@@ -1,0 +1,71 @@
+html, body {
+  min-height: 70%;min-width: 50%;
+  background-color: #cfd3d8;
+}
+
+#navMid h4
+    {
+        /* display: flex; */
+        /* list-style-type: none;
+        padding-left: 250px;
+        margin-top: -30px;
+        word-spacing: 10px; */
+        position: relative;
+        float: left;
+        left: 200px;top: -40px;
+        margin-left: 35px;
+
+
+
+    }
+    #navEnd img{
+
+        position: relative;
+        float: left;left: 250px;
+        top: -20px; margin-left:35px;
+    }
+    #navFirst img{
+
+        position: relative;
+        top: 15px;left: 15px;
+    }
+    #assign ul{
+        position: relative;
+        left: 10px;top:100px;
+
+    }
+    #midWholePart12{
+         position: relative;
+         top: 120px;left: 50px;
+
+    }
+    #feeding{
+
+         position: relative;
+         left: 30px;top: 120px;
+         height: 40px;width: 60px;
+    }
+    #light{
+      position: relative;
+      left: 220px;top: -27px;
+      height: 40px;width: 60px;
+
+    }
+    #care{
+      position: relative;
+      left: 410px;top: -165px;
+      height: 40px;width: 60px;
+    }
+    #imgMain{
+      position: relative;
+      top: -565px;left: 600px;
+      height: 300px;width: 300px;
+    }
+    #midWholePart122 img{
+
+      position: relative;
+      left: 100px;top: -35px;
+      height: 15px;width: 15px;
+    }
+
+      
